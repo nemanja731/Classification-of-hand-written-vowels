@@ -1,3 +1,3 @@
-# Klasifikacija-rukom-pisanih-samoglasnika
+# Classification-of-hand-written-vowels
 
-Na raspolaganju je baza samoglasnika od 120 razlicitih rukom pisanih samoglasnika. Program izdvaja obelezja na osnovu kojih ce se slova na ispravan nacin klasifikovati u odgovarajuce klase. Program se trenira na trening skupu a testira na test skupu. Matricom konfuzije prikazuju se rezultati klasifikacije. :memo:
+A vowel database of 120 different handwritten vowels is available. The program extracts features based on which the letters will be correctly classified into the appropriate classes. The program is trained with the training set and tested with the test set. The confusion matrix shows the classification results. :memo:
